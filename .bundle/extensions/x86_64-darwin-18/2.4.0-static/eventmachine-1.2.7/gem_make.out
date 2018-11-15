@@ -1,0 +1,16 @@
+current directory: /Users/pam/Projects/pamyam/.bundle/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/pam/.rbenv/versions/2.4.5/bin/ruby -r ./siteconf20181115-64972-1j7ywz5.rb extconf.rb --with-cppflags=-I/usr/local/opt/openssl/include --with-ldflags=-L/usr/local/opt/openssl/lib
+creating Makefile
+
+current directory: /Users/pam/Projects/pamyam/.bundle/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /Users/pam/Projects/pamyam/.bundle/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/pam/Projects/pamyam/.bundle/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20181115-64972-1on3nqw
