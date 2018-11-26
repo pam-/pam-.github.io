@@ -17,7 +17,8 @@ title: "pam yam"
 subtitle: my sandbox
 email: pizza@pamy.am
 description: >- # this means to ignore newlines until "baseurl:"
-  you do what you want you poppin'
+  code, food, health, fitness, and all my other favorite things.
+  this blog is for the creatives that are too hungry to choose one thing.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pam_yam

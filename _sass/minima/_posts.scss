@@ -105,8 +105,10 @@ $post-types: (
   }
 
   &__food {
-    .highlighter-rouge, img {
+    .highlighter-rouge, img:not(.emoji) {
       width: 40em;
+      margin: 0 auto;
+      display: block;
     }
   }
 }
