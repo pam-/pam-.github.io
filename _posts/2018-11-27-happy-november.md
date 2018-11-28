@@ -9,3 +9,4 @@ subtitle: recognizing the joy in my life each month
 - improvising some kick-ass sweet potato latkes
 - having a deep conversation with my big brother/best friend S about income inequality
 - watching Creed II with my bestie M
+- peanut butter in smoothies
