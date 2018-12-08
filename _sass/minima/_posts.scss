@@ -93,6 +93,7 @@ $post-types: (
   h4 {
     @include relative-font-size(1.25);
     border-bottom: 1px solid $pastel-red;
+    font-weight: bold;
 
     @include media-query($on-laptop) {
       @include relative-font-size(1.125);

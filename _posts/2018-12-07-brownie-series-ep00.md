@@ -11,7 +11,7 @@ _best eaten warm, or cooled down and dunked in a warm glass of milk_
 
 ![brownies close up][1]
 
-#### Ingredients needed
+#### Ingredients
 
 - Brownie Mix (good for experiments because the dry tings are already perfectly measured)
 - 3 egg yolks
@@ -22,7 +22,7 @@ _best eaten warm, or cooled down and dunked in a warm glass of milk_
 - peanut butter sandwich cookies (Oreos or other similar brands)
 - 1/3 cup of dark chocolate discs
 
-#### Steps to take
+#### Steps
 
 - Preheat oven to 350˚F
 - In a bowl, mix the melted ghee, the almond milk, and the coconut cream until smooth
@@ -42,11 +42,11 @@ _Pro-tip: You can wrap the brownie pieces in saran wrap and freeze them once the
 
 #### Testimonies
 
-'Delicious.' - Me
+'Delicious.' - _Me_
 
-'The ginger gave an unexpected kick and cut through the richness and sweetness!' - A friend who never lies
+'The ginger gave an unexpected kick and cut through the richness and sweetness!' - _A friend who never lies about food._
 
-'Nice touch! I might steal this.' - A new chef friend who would _not_ lie about food. C'mon, now.
+'Nice touch! I might steal this.' - _A new chef friend who would *not* lie about food._
 
 
 [1]:https://www.dropbox.com/s/swbspaueaqml2xx/IMG_2355.jpg?raw=1
