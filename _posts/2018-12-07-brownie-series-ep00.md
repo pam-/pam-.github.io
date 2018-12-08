@@ -15,7 +15,7 @@ _best eaten warm, or cooled down and dunked in a warm glass of milk_
 
 - Brownie Mix (good for experiments because the dry tings are already perfectly measured)
 - 3 egg yolks
-- 5.4 fl oz of cocnut cream (tiny can from WF)
+- 5.4 fl oz of coconut cream (tiny can from Whole Foods)
 - 2 tablespoons of ghee (melted and cool)
 - 1/3 cup of almond milk
 - about 2 tablespoons of fresh grated ginger
