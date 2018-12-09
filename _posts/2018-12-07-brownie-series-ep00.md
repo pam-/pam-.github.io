@@ -7,9 +7,9 @@ subtitle: Fun brownies recipes to get through these cold winter streets
 ---
 
 ## Brownies with Ginger & PB Cookies
-_best eaten warm, or cooled down and dunked in a warm glass of milk_
+_best eaten warm with ice cream, or cooled down and dunked into a warm glass of milk_
 
-![brownies close up][1]
+![brownies close up][2]
 
 #### Ingredients
 
@@ -38,7 +38,7 @@ _best eaten warm, or cooled down and dunked in a warm glass of milk_
 
 _Pro-tip: You can wrap the brownie pieces in saran wrap and freeze them once they're cool. Freezing them traps the moisture so the gooey texture stays the same. You can keep them in there for a couple of weeks! To eat, simply thaw (or warm up in a microwave) and enjoy._
 
-![separate pieces][2]
+![separate pieces][4]
 
 #### Testimonies
 
