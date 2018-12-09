@@ -32,7 +32,7 @@ _best eaten warm with ice cream, or cooled down and dunked into a warm glass of 
 - 1 1/4 cup brown sugar
 - 6 eggs
 - 3 teaspoons of vanilla extract
-- 2 teaspoons of salt
+- 2 teaspoons of coarse sea salt
 
 - 30g of fresh grated ginger
 - 1 cup of all purpose flour
@@ -42,27 +42,28 @@ _best eaten warm with ice cream, or cooled down and dunked into a warm glass of 
 #### Steps
 
 <ol>
-	<ul> Preheat oven to 350˚F </ul>
+	<ul> Preheat oven to 350˚F. </ul>
 	<ul> In a small pan, melt ghee and coconut oil on medium heat for 10 minutes. </ul>
 	<ul> While the oils are melting and conversing, put all the chocolate in a heat resistant glass bowl or measuring cup. Reserve. </ul>
 	<ul> Grease a 9x13 pan, and line with parchment paper. </ul>
 	<ul> Take the oils off the heat and pour on the chocolate. Let sit 2 minutes, then mix until all the chocolate is melted. </ul>
-	<ul> Add the condensed milk to the hot chocolate. Mix until melted. Reserve.</ul>
-	<ul> In a large bowl, add the salt, sugar, vanilla extract, and eggs. Beat with the electric mixer (or your ultra strong arm) until the texture gros in thickness and fluffiness. It will look like a batter with lots of bubbles.</ul>
-	<ul> With the mixer still beating, add the cooled chocolate to the fluffy batter and mix until the chocolate is fully incorporated.</ul>
-	<ul>  </ul>
+	<ul> Add the condensed milk to the hot chocolate. Mix until melted. Reserve. </ul>
+	<ul> In a large bowl, add the salt, sugar, vanilla extract, and eggs. Beat with the electric mixer (or your ultra strong arm) until the texture gros in thickness and fluffiness. It will look like a batter with lots of bubbles. </ul>
+	<ul> With the mixer still beating, add the, now cooler, chocolate to the fluffy batter and mix until the chocolate is fully incorporated.</ul>
+	<ul> Sift the flour in the batter, and with a spatula, lightly mix it in to avoid loosing the air bubbles from the beaten eggs. </ul>
+	<ul> Add the ginger. Mix it up. </ul>
+	<ul> Pour half of the batter in the baking pan</ul>
+	<ul> Using a teaspoon, scoop in some peanut butter throughout the pan, making sure to evenly separate each scoop.</ul>
+	<ul> Sprinkle some brown sugar. </ul>
+	<ul> Pour in the rest of the batter. Even it out with a spatula. </ul>
+	<ul> Put the pan in the oven and let bake for 20 minutes. </ul>
+	<ul> After 20 minutes, take it out, shake the pan a little bit, drop it on the counter a few times to deflate the mix a bit. Sprinkle some coarse sea salt on top.</ul>
+	<ul> Put the pan back in the oven for 20 more minutes or until a toothpick comes out clean when you stick it in there. </ul>
+	<ul> Once out of the oven, let the pan cool down on a cooling rack. </ul>
+	<ul> When cool, take the brownies out of the pan, lifting it with the parchment paper. </ul>
+	<ul> Cut them up and serve warm (or cover overnight and eat the next day for breakfast). </ul>
+
 </ol>
-- 
-- In a bowl, mix the melted ghee, the almond milk, and the coconut cream until smooth
-- Add the egg yolks, mix until smooth
-- Add the dry mix, mix until smooth
-- Add the chocolate discs and ginger, stir it up
-- Grease a 9x9 pan (or whatever size is recommended on the brownie mix pack). You can also use parchment paper.
-- Pour in half the batter, even it out
-- Add the cookies, evenly spaced out
-- Cover the cookies with the rest of the batter, making sure that it is evenly poured around the pan
-- Bake for 25 to 30 minutes
-- Let cool, cut, and enjoy!
 
 _Pro-tip: You can wrap the brownie pieces in saran wrap and freeze them once they're cool. Freezing them traps the moisture so the gooey texture stays the same. You can keep them in there for a couple of weeks! To eat, simply thaw (or warm up in a microwave) and enjoy._
 
@@ -72,9 +73,9 @@ _Pro-tip: You can wrap the brownie pieces in saran wrap and freeze them once the
 
 'Delicious.' - _Me_
 
-'The ginger gave an unexpected kick and cut through the richness and sweetness!' - _A friend who never lies about food._
+'I was a bit scared about the ginger, but it adds a nice touch!' - _My bro's bb._
 
-'Nice touch! I might steal this.' - _A new chef friend who would *not* lie about food._
+'It was delicious!' - _My friend who will not lie about food. I trust her 100% with taste._
 
 
 [1]:https://www.dropbox.com/s/swbspaueaqml2xx/IMG_2355.jpg?raw=1
