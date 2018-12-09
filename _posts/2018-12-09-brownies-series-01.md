@@ -75,11 +75,11 @@ _Pro-tip: You can wrap the brownie pieces in saran wrap and freeze them once the
 
 'I was a bit scared about the ginger, but it adds a nice touch!' - _My bro's bb._
 
-'It was delicious!' - _My friend who will not lie about food. I trust her 100% with taste._
+'The brownies were delicious!' - _My friend who will not lie about food. I trust her 100% with taste._
 
 
-[1]:https://www.dropbox.com/s/swbspaueaqml2xx/IMG_2355.jpg?raw=1
-[2]:https://www.dropbox.com/s/07vs27e7kg35yp0/IMG_2353.jpg?raw=1
-[3]:https://www.dropbox.com/s/cqd863v0rswmjuu/IMG_9932.jpg?raw=1
-[4]:https://www.dropbox.com/s/tap853tyuoetlqy/IMG_2352.jpg?raw=1
-[5]:https://cmeimg-a.akamaihd.net/640/clsd/getty/cache.gettyimages.com/67e4af273899466fa5f8eaa99fd0afa7.jpg
+[1]: https://www.dropbox.com/s/olpj7bbmg41h1ba/IMG_0004.jpg?raw=1
+[2]: https://www.dropbox.com/s/6kphffe2etqpv0w/IMG_0005.jpg?raw=1
+[3]: https://www.dropbox.com/s/cvs8zfl94zriz5u/IMG_0006.jpg?raw=1
+[4]: https://www.dropbox.com/s/qbf8e1o7wu1h7px/IMG_0007.jpg?raw=1
+[5]: https://www.dropbox.com/s/buz47477qlugb2v/IMG_2416.jpg?raw=1
