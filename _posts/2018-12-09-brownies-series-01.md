@@ -9,7 +9,7 @@ subtitle: Fun brownies recipes to get through these cold winter streets
 ## PB&G Brownies
 _best eaten warm with ice cream, or cooled down and dunked into a warm glass of milk_
 
-![brownies close up][2]
+![brownies close up][1]
 
 #### Equipment
 
@@ -67,7 +67,7 @@ _best eaten warm with ice cream, or cooled down and dunked into a warm glass of 
 
 _Pro-tip: You can wrap the brownie pieces in saran wrap and freeze them once they're cool. Freezing them traps the moisture so the gooey texture stays the same. You can keep them in there for a couple of weeks! To eat, simply thaw (or warm up in a microwave) and enjoy._
 
-![separate pieces][4]
+![separate pieces][2]
 
 #### Testimonies
 
@@ -78,8 +78,5 @@ _Pro-tip: You can wrap the brownie pieces in saran wrap and freeze them once the
 'The brownies were delicious!' - _My friend who will not lie about food. I trust her 100% with taste._
 
 
-[1]: https://www.dropbox.com/s/olpj7bbmg41h1ba/IMG_0004.jpg?raw=1
-[2]: https://www.dropbox.com/s/6kphffe2etqpv0w/IMG_0005.jpg?raw=1
-[3]: https://www.dropbox.com/s/cvs8zfl94zriz5u/IMG_0006.jpg?raw=1
-[4]: https://www.dropbox.com/s/qbf8e1o7wu1h7px/IMG_0007.jpg?raw=1
-[5]: https://www.dropbox.com/s/buz47477qlugb2v/IMG_2416.jpg?raw=1
+[1]: https://www.dropbox.com/s/6lxnxa0rrs4tcaa/IMG_0005.jpg?raw=1
+[2]: https://www.dropbox.com/s/3ojc83za9rkeu74/IMG_0007.jpg?raw=1
