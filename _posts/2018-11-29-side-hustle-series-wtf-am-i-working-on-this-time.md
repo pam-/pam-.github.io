@@ -13,6 +13,8 @@ Out of all the 129928844e10 ideas I have, one kept coming back to my mind: start
 
 My goal is to launch my channel at the end of January 2019. I honestly just decided this as I was typing... but I think it makes sense: the noise and high caused by the new year will have died down a little bit, at least just enough to give room to new projects, it'll be Black History Month, a great occasion to drop the project in creative channels and get featured. It overall feels like a good time to drop something new. Until then, there's a _LOT_ to be figured out.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JqfeArFvxLg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Logistical deets
 
 - **Name:** •••••••
