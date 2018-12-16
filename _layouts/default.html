@@ -15,6 +15,32 @@
 
     {%- include footer.html -%}
 
+    <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
+    <script>
+      var elem = document.querySelector('.post-list');
+
+      var iso = new Isotope( elem, {
+        itemSelector: '.post-list-item',
+        layoutMode: 'fitRows',
+        getSortData: {
+          misc: '.misc',
+          food: '.food',
+          fitness: '.fitness',
+          code: '.code',
+          health: '.health',
+          process: '.creative-process',
+        }
+      });
+
+      var filters = document.querySelector('#filters')
+
+      filters.addEventListener('click', function(event) {
+        var filterValue = event.target.getAttribute('data-filter');
+        console.log(filterValue)
+
+        iso.arrange({ filter: filterValue });
+      });
+    </script>
   </body>
 
 </html>
