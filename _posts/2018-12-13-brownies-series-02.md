@@ -22,7 +22,7 @@ _best eaten with some warm milk_
 
 #### Ingredients
 
-- 2 tablespoons of zaatar (I first tried with one but I think 2 would've been better.)
+- 2 tablespoons of za'atar from [Shafa Blends](https://www.shafablends.com/collections/spice-blends/products/zaatar)
 - 140g peanut butter
 - 125g of sugar
 - pinch of salt
@@ -86,13 +86,13 @@ The next day, my balls were good to go!
 
 ![metamorphosis][2]
 
-
+If anything, this recipe has taught me that za'atar, especially from [Shafa Blends](https://www.shafablends.com/collections/spice-blends/products/zaatar) :wink:, can do no wrong. Stay tuned for more sweet recipes with this delicious spice blend!
 
 #### Testimonies
 
 'Wow, they're actually good!' - _Me._
 
-'Oh wow, these are huge.' - _My bro's bb._
+'Oh wow, these are huge. They taste good! Very chocolatey.' - _My bro's bb._
 
 
 [1]:https://www.dropbox.com/s/qssyrp4ep9839qv/IMG_2503.jpg?raw=1
