@@ -42,26 +42,26 @@ _best eaten warm with ice cream, or cooled down and dunked into a warm glass of 
 #### Steps
 
 <ol>
-	<ul> Preheat oven to 350˚F. </ul>
-	<ul> In a small pan, melt ghee and coconut oil on medium heat for 10 minutes. </ul>
-	<ul> While the oils are melting and conversing, put all the chocolate in a heat resistant glass bowl or measuring cup. Reserve. </ul>
-	<ul> Grease a 9x13 pan, and line with parchment paper. </ul>
-	<ul> Take the oils off the heat and pour on the chocolate. Let sit 2 minutes, then mix until all the chocolate is melted. </ul>
-	<ul> Add the condensed milk to the hot chocolate. Mix until melted. Reserve. </ul>
-	<ul> In a large bowl, add the salt, sugar, vanilla extract, and eggs. Beat with the electric mixer (or your ultra strong arm) until the texture gros in thickness and fluffiness. It will look like a batter with lots of bubbles. </ul>
-	<ul> With the mixer still beating, add the, now cooler, chocolate to the fluffy batter and mix until the chocolate is fully incorporated.</ul>
-	<ul> Sift the flour in the batter, and with a spatula, lightly mix it in to avoid loosing the air bubbles from the beaten eggs. </ul>
-	<ul> Add the ginger. Mix it up. </ul>
-	<ul> Pour half of the batter in the baking pan</ul>
-	<ul> Using a teaspoon, scoop in some peanut butter throughout the pan, making sure to evenly separate each scoop.</ul>
-	<ul> Sprinkle some brown sugar. </ul>
-	<ul> Pour in the rest of the batter. Even it out with a spatula. </ul>
-	<ul> Put the pan in the oven and let bake for 20 minutes. </ul>
-	<ul> After 20 minutes, take it out, shake the pan a little bit, drop it on the counter a few times to deflate the mix a bit. Sprinkle some coarse sea salt on top.</ul>
-	<ul> Put the pan back in the oven for 20 more minutes or until a toothpick comes out clean when you stick it in there. </ul>
-	<ul> Once out of the oven, let the pan cool down on a cooling rack. </ul>
-	<ul> When cool, take the brownies out of the pan, lifting it with the parchment paper. </ul>
-	<ul> Cut them up and serve warm (or cover overnight and eat the next day for breakfast). </ul>
+	<li> Preheat oven to 350˚F. </li>
+	<li> In a small pan, melt ghee and coconut oil on medium heat for 10 minutes. </li>
+	<li> While the oils are melting and conversing, put all the chocolate in a heat resistant glass bowl or measuring cup. Reserve. </li>
+	<li> Grease a 9x13 pan, and line with parchment paper. </li>
+	<li> Take the oils off the heat and pour on the chocolate. Let sit 2 minutes, then mix until all the chocolate is melted. </li>
+	<li> Add the condensed milk to the hot chocolate. Mix until melted. Reserve. </li>
+	<li> In a large bowl, add the salt, sugar, vanilla extract, and eggs. Beat with the electric mixer (or your ultra strong arm) until the texture grows in thickness and fluffiness. It will look like a batter with lots of bubbles. </li>
+	<li> With the mixer still beating, add the, now cooler, chocolate to the fluffy batter and mix until the chocolate is fully incorporated.</li>
+	<li> Sift the flour in the batter, and with a spatula, lightly mix it in to avoid loosing the air bubbles from the beaten eggs. </li>
+	<li> Add the ginger. Mix it up. </li>
+	<li> Pour half of the batter in the baking pan</li>
+	<li> Using a teaspoon, scoop in some peanut butter throughout the pan, making sure to evenly separate each scoop.</li>
+	<li> Sprinkle some brown sugar. </li>
+	<li> Pour in the rest of the batter. Even it out with a spatula. </li>
+	<li> Put the pan in the oven and let bake for 20 minutes. </li>
+	<li> After 20 minutes, take it out, shake the pan a little bit, drop it on the counter a few times to deflate the mix a bit. Sprinkle some coarse sea salt on top.</li>
+	<li> Put the pan back in the oven for 20 more minutes or until a toothpick comes out clean when you stick it in there. </li>
+	<li> Once out of the oven, let the pan cool down on a cooling rack. </li>
+	<li> When cool, take the brownies out of the pan, lifting it with the parchment paper. </li>
+	<li> Cut them up and serve warm (or cover overnight and eat the next day for breakfast). </li>
 
 </ol>
 

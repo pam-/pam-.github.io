@@ -1,84 +1,99 @@
 ---
 layout: post
-title: brownies series 02
+title: "brownies series #02"
 date: 2018-12-13 10:50 -0800
 type: food
 subtitle: Fun brownies recipes to get through these cold winter streets
 ---
 
-## Za'atar Brownies
-_best eaten warm with ice cream, or cooled down and dunked into a warm glass of milk_
+## Za'atar Brownies....Balls?
+_best eaten with some warm milk_
 
-![brownies close up][2]
+![brownies?][1]
+
+<br/>
 
 #### Equipment
 
-- 9x13 baking sheet or pan (change in size is fine but will make for longer or shorter cooking time)
+- 9x5 baking sheet or pan (change in size is fine but will make for longer or shorter cooking time)
 - Electric mixer or a really strong arm
 - Small cooking pan
 - Glass heat resistant bowl or measuring cup
-- Grater
 
 #### Ingredients
 
-- 160g of bittersweet chocolate, 70% cocoa or more (I used chocolate discs)
-- 33g of cocoa powder
-- 2 teaspoons of cinnamon
+- 2 tablespoons of zaatar (I first tried with one but I think 2 would've been better.)
+- 140g peanut butter
+- 125g of sugar
+- pinch of salt
+- 1 egg
 
-- 112g of ghee
-- 122g of coconut oil
-- 1 can of coconut condensed milk
+- 56g softened butter
+- 85ml of olive oil
+- 40 g cocoa powder
 
-- 1 1/4 cup brown sugar
-- 6 eggs
-- 3 teaspoons of vanilla extract
-- 2 teaspoons of coarse sea salt
-
-- 30g of fresh grated ginger
-- 1 cup of all purpose flour
-- 1/4 cup of peanut butter
+- 85g all purpose flour (I originally put 170g and that yielded nothing good. Continue reading to find out what happened.)
+- 1 teaspoon of vanilla extract
+- 120g of chocolate discs
+- 1 teaspoon of cinnamon
+- 1 teaspoon of salt
+- 125g sugar
+- 4 eggs
 
 
 #### Steps
 
 <ol>
-  <ul> Preheat oven to 350˚F. </ul>
-  <ul> In a small pan, melt ghee and coconut oil on medium heat for 10 minutes. </ul>
-  <ul> While the oils are melting and conversing, put all the chocolate in a heat resistant glass bowl or measuring cup. Reserve. </ul>
-  <ul> Grease a 9x13 pan, and line with parchment paper. </ul>
-  <ul> Take the oils off the heat and pour on the chocolate. Let sit 2 minutes, then mix until all the chocolate is melted. </ul>
-  <ul> Add the condensed milk to the hot chocolate. Mix until melted. Reserve. </ul>
-  <ul> In a large bowl, add the salt, sugar, vanilla extract, and eggs. Beat with the electric mixer (or your ultra strong arm) until the texture gros in thickness and fluffiness. It will look like a batter with lots of bubbles. </ul>
-  <ul> With the mixer still beating, add the, now cooler, chocolate to the fluffy batter and mix until the chocolate is fully incorporated.</ul>
-  <ul> Sift the flour in the batter, and with a spatula, lightly mix it in to avoid loosing the air bubbles from the beaten eggs. </ul>
-  <ul> Add the ginger. Mix it up. </ul>
-  <ul> Pour half of the batter in the baking pan</ul>
-  <ul> Using a teaspoon, scoop in some peanut butter throughout the pan, making sure to evenly separate each scoop.</ul>
-  <ul> Sprinkle some brown sugar. </ul>
-  <ul> Pour in the rest of the batter. Even it out with a spatula. </ul>
-  <ul> Put the pan in the oven and let bake for 20 minutes. </ul>
-  <ul> After 20 minutes, take it out, shake the pan a little bit, drop it on the counter a few times to deflate the mix a bit. Sprinkle some coarse sea salt on top.</ul>
-  <ul> Put the pan back in the oven for 20 more minutes or until a toothpick comes out clean when you stick it in there. </ul>
-  <ul> Once out of the oven, let the pan cool down on a cooling rack. </ul>
-  <ul> When cool, take the brownies out of the pan, lifting it with the parchment paper. </ul>
-  <ul> Cut them up and serve warm (or cover overnight and eat the next day for breakfast). </ul>
+  <li> Preheat oven to 350˚F. </li>
+  <li> Grease a 9x5 pan, and line with parchment paper. Put aside.</li>
+  <li> In a small pan, heat up butter and olive oil on medium heat for 10 minutes or until simmering begins. </li>
+  <li> Put all the chocolate (discs and powder) in a heat resistant glass bowl or measuring cup. Reserve. </li>
+  <li> Take the oils off the heat and pour on the chocolate. Let sit 2 minutes, then mix until all the chocolate is melted. </li>
+  <br/>
+  <li> In a large bowl, add the salt, first half of sugar, vanilla extract, and eggs. Beat with the electric mixer (or your ultra strong arm) until the texture grows in thickness and fluffiness. It will look like a batter with lots of bubbles. </li>
+  <li> With the mixer still beating, add the, now cooler, chocolate to the fluffy batter and mix until the chocolate is fully incorporated.</li>
+  <li> Sift the flour in the batter, and with a spatula, lightly mix it in to avoid loosing the air bubbles from the beaten eggs. </li>
+  <br/>
+  <li> In another bowl, cream the peanut butter, the rest of the sugar, a pinch of salt, and the remaining egg. Use an electric mixer or your hand.</li>
+  <li> Pour the chocolate batter in the baking pan. Even it out with a spatula.</li>
+  <li> Pour the peanut butter mix on top and using a skewer or a fork, twirl the PB around, creating a pattern of your liking. (I failed here.)</li>
+  <li> After 15 minutes, take it out, shake the pan a little bit, drop it on the counter a few times to deflate the mix a bit. Sprinkle some coarse sea salt on top.</li>
+  <li> Put the pan back in the oven for 20 more minutes or until a toothpick comes out clean when you stick it in there. </li>
+  <li> Once out of the oven, let the pan cool down on a cooling rack. </li>
+  <li> When cool, take the brownies out of the pan, lifting it with the parchment paper. </li>
+  <li> Cut them up and serve warm (or cover overnight and eat the next day for breakfast). </li>
 
 </ol>
 
-_Pro-tip: You can wrap the brownie pieces in saran wrap and freeze them once they're cool. Freezing them traps the moisture so the gooey texture stays the same. You can keep them in there for a couple of weeks! To eat, simply thaw (or warm up in a microwave) and enjoy._
+#### What actually happened
 
-![separate pieces][4]
+**I added to much flour**
+
+I added 170g to my liquids which was entirely too much. It killed all the air bubbles from the eggs.  This resulted in a dense _dough_, long gone was the batter. Needless to say, the bake came out tough and almost bread like. But like, a bread that's been sitting outside for days.
+
+I refuse to toss food, unless it is absolutely disgusting. And in this case, it actually tasted pretty good! A good balance between sweet and savory (thanks to the za'atar), complemented by the right touch of tang from the sumac (yay za'atar) and some slight bitterness coming from the darker chocolate discs. It deserved to be saved.
+
+**How I _sort of_ recovered**
+
+I crumbled the brownie brick in a bowl, added in about a cup of almond milk, initially warmed with about 50g of chocolate discs, 1/2 cup of granulated sugar, and dash of vanilla extract. I mixed it all up, let it sit for a sec and poured it into a baking pan, and into the fridge for a few hours.
+
+While it was was cooling down, I made some chocolate ganache with about a cup of chocolate discs, and 1/2 cup of almond milk. I let the mixture get warm over low heat, stirring until the chocolate was all melted and incorporated with the milk.
+
+I took the recovering brownies out of the fridge, cut them into even squares, rolled each square into a ball, and covered it in chocolate ganache. I sprinkled a bit of sea salt on top before the ganache cooled down. When all the balls were (clumsily) covered, I tossed it back in the fridge overnight.
+
+The next day, my balls were good to go!
+
+
+![metamorphosis][2]
+
+
 
 #### Testimonies
 
-'Delicious.' - _Me_
+'Wow, they're actually good!' - _Me._
 
-'I was a bit scared about the ginger, but it adds a nice touch!' - _My bro's bb._
-
-'It was delicious!' - _My friend who will not lie about food. I trust her 100% with taste._
+'Oh wow, these are huge.' - _My bro's bb._
 
 
-[1]:https://www.dropbox.com/s/swbspaueaqml2xx/IMG_2355.jpg?raw=1
-[2]:https://www.dropbox.com/s/07vs27e7kg35yp0/IMG_2353.jpg?raw=1
-[3]:https://www.dropbox.com/s/cqd863v0rswmjuu/IMG_9932.jpg?raw=1
-[4]:https://www.dropbox.com/s/tap853tyuoetlqy/IMG_2352.jpg?raw=1
+[1]:https://www.dropbox.com/s/qssyrp4ep9839qv/IMG_2503.jpg?raw=1
+[2]:https://www.dropbox.com/s/xjcjw42ipl3jqn4/IMG_2507.jpg?raw=1
