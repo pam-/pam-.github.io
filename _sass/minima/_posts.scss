@@ -29,6 +29,7 @@ $post-types: (
 .button-group {
   margin-bottom: 4rem;
   button {
+    cursor: pointer;
     font-weight: lighter;
     margin-right: 1em;
     @include relative-font-size(1);
