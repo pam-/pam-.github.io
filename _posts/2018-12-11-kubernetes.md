@@ -2,7 +2,7 @@
 layout: post
 title: "Yet Another Kubernetes Breakdown"
 type: code
-image: "https://giphy.com/embed/xT9DPiWlDIld3CLnqg"
+image: "https://media.giphy.com/media/xT9DPiWlDIld3CLnqg/giphy.gif"
 date: 2018-12-11 14:10 -0800
 ---
 
