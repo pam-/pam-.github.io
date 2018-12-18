@@ -7,6 +7,8 @@ date: 2018-12-16 21:03 -0500
 
 ## #00: 100 double-unders, unbroken, in one minute
 
+<iframe src="https://www.youtube.com/embed/pD9vF--0Z40" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Fitness challenges start now!
 On this first one, my goal is to do 100 double-unders, unbroken, in one minute. I am giving myself 30 days. I am _hoping_ that it'll be enough.
 
@@ -19,23 +21,11 @@ On this first one, my goal is to do 100 double-unders, unbroken, in one minute. 
 
 ## What is a double-under
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-tF3hUsPZAI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/-tF3hUsPZAI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Current status
 
 How many double-unders can I do unbroken in a minute at the beginning of the challenge?
-
-* attempt #1
-
-* attempt #2
-
-* attempt #3
-
-* attempt #4
-
-* attempt #5
-
-## Vlog update
 
 
 Wish me luck!

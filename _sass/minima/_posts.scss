@@ -69,6 +69,10 @@ $post-types: (
 
 .post-content {
   margin-bottom: $spacing-unit;
+  iframe {
+    width: 100%;
+    height: 400px;
+  }
   a {
     color: $link-color;
     font-weight: bold;
