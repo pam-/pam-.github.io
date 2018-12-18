@@ -2,6 +2,17 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
   {%- include head.html -%}
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-131087176-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-131087176-1');
+  </script>
+
   <meta name="twitter:card"  content="summary_large_image">
   <meta name="twitter:image" content="{{ page.image }}">
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
