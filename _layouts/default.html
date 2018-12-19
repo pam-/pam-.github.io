@@ -3,6 +3,26 @@
 
   {%- include head.html -%}
 
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-131087176-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-131087176-1');
+  </script>
+
+  <meta name="twitter:card"  content="summary_large_image">
+  <meta name="twitter:image" content="{{ page.image }}">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+
   <body>
 
     {%- include header.html -%}
@@ -15,6 +35,32 @@
 
     {%- include footer.html -%}
 
+    <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
+    <script>
+      var elem = document.querySelector('.post-list');
+
+      var iso = new Isotope( elem, {
+        itemSelector: '.post-list-item',
+        layoutMode: 'fitRows',
+        getSortData: {
+          misc: '.misc',
+          food: '.food',
+          fitness: '.fitness',
+          code: '.code',
+          health: '.health',
+          process: '.creative-process',
+        }
+      });
+
+      var filters = document.querySelector('#filters')
+
+      filters.addEventListener('click', function(event) {
+        var filterValue = event.target.getAttribute('data-filter');
+        console.log(filterValue)
+
+        iso.arrange({ filter: filterValue });
+      });
+    </script>
   </body>
 
 </html>

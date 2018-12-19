@@ -10,19 +10,30 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <ul class="post-list post-list__code">
-      {%- for post in site.posts -%}
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            <li class="post-type--{{ post.type | default: 'misc' }}">
-            <h1 class="post-list__title">{{ post.title | escape }}</h1>
 
-            <span class="post-meta">{{ post.date | date: date_format }}</span>
-            <span class="post-meta post-meta__{{ post.type | default: 'misc' }}"> {{ post.type | default: 'misc' }} </span>
+    <div id="filters" class="button-group">
+      <button class="button is-checked" data-filter="*">show all</button>
+      <button class="button" data-filter=".code">code</button>
+      <button class="button" data-filter=".food">food</button>
+      <button class="button" data-filter=".fitness">fitness</button>
+      <button class="button" data-filter=".creative-process">creative process</button>
+    </div>
+
+    <div class="post-list">
+      <ul>
+        {%- for post in site.posts -%}
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+            <li class="post-type--{{ post.type | default: 'misc' }} post-list-item {{ post.type }}">
+              <a class="post-link" href="{{ post.url | relative_url }}">
+                <h1 class="post-list__title">{{ post.title | escape }}</h1>
+
+                <span class="post-meta">{{ post.date | date: date_format }}</span>
+                <span class="post-meta post-meta__{{ post.type | default: 'misc' }}"> {{ post.type | default: 'misc' }} </span>
+              </a>
             </li>
-          </a>
-      {%- endfor -%}
-    </ul>
+        {%- endfor -%}
+      </ul>
+    </div>
   {%- endif -%}
 
 </div>

@@ -20,6 +20,24 @@ $post-types: (
     background-color: $color;
     border: 2px solid $color;
   }
+  button[data-filter=".#{$type}"] {
+    background-color: $color;
+    border: 1px solid $color;
+  }
+}
+
+.button-group {
+  margin-bottom: 4rem;
+  button {
+    cursor: pointer;
+    font-weight: lighter;
+    margin-right: 1em;
+    @include relative-font-size(1);
+  }
+  button[data-filter="*"] {
+    background-color: transparent;
+    border: 1px solid $grey-color-light;
+  }
 }
 
 .post-list-heading {
@@ -34,9 +52,12 @@ $post-types: (
     @include relative-font-size(1.75);
     margin-bottom: 0;
   }
-
+  ul {margin: 0;}
   li {
+    list-style: none;
     margin-bottom: 10px;
+    position: relative !important;
+    top: 0 !important;
   }
 }
 
