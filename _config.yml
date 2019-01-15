@@ -18,7 +18,7 @@ author: "pam assogba"
 subtitle: my sandbox
 email: pam.assogba@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  a systems engineer in love with all things creativity. I blog about code, cooking experiments, and ~ lifestyle ~.
+  a systems engineer in love with all things creativity. I blog about code, cooking experiments, and fitness.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pamy.am" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pam_yam
