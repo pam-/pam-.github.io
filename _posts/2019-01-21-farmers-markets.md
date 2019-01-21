@@ -1,6 +1,6 @@
 ---
 layout: post
-title: farmers-markets
+title: "Farmer's Markets List"
 type: creative-process
 ---
 
@@ -12,8 +12,7 @@ Deadline: March 30th
 Location:   
 When:   
 Other cookies vendors:   -->
-
-## Farmer's Markets List
+_List of potential farmer's markets for [madjé's cookies](madjescookies.com)'_
 
 #### [Capital Harvest](http://www.capitalharvestdc.com/)
 [Application](https://static1.squarespace.com/static/553a6db2e4b06a81362e5028/t/5abbd8632b6a28c8f41e1d70/1522260067846/CHoP+Application+2018.pdf)  
