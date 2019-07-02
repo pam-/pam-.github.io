@@ -3,37 +3,31 @@ layout: default
 ---
 
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+  <div class="img-wrapper">
+    <img src="/pam-2.png" alt="">
+  </div>
 
-  {{ content }}
+    <section>
+      <h2>about me</h2>
+      <p>
+        I am a software engineer who cares deeply about experimenting with new creative ideas, and building products that have a positive impact.
+        I have worked <a href="https://concert.io/">on the platforms</a> that bring <a href="https://digiday.com/media/deal-native-ad-pains-vox-media-brings-distribution-house/">innovative advertising</a> to <a href="voxmedia.com">hundreds of media brands</a>.
+        I am currently working as a systems engineer on the infrastructure that empowers developers to run and scale Vox Media's <a href="https://getchorus.voxmedia.com/">business</a>.
+      </p>
+      <p>
+        On my free time, I organize <a href="https://meetups.com/wearecolorcoded">meetups</a>, <a href="https://www.instagram.com/p/BYqk2NyFtfE/">workshops</a>, <a href="https://www.instagram.com/p/BylA52xhZ6o/">happy hours</a>, and <a href="https://www.instagram.com/p/BZ1cju-ls7e/">fun creative events</a> for <a href="https://wearecolorcoded.us">Color Coded</a>; a community for people of color in tech I founded in 2016.
+      </p>
+    </section>
 
-  {%- if site.posts.size > 0 -%}
-
-    <div id="filters" class="button-group">
-      <button class="button is-checked" data-filter="*">show all</button>
-      <button class="button" data-filter=".code">code</button>
-      <button class="button" data-filter=".food">food</button>
-      <button class="button" data-filter=".fitness">fitness</button>
-      <button class="button" data-filter=".creative-process">creative process</button>
-    </div>
-
-    <div class="post-list">
+    <section>
+      <h2>find me</h2>
       <ul>
-        {%- for post in site.posts -%}
-          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-            <li class="post-type--{{ post.type | default: 'misc' }} post-list-item {{ post.type }}">
-              <a class="post-link" href="{{ post.url | relative_url }}">
-                <h1 class="post-list__title">{{ post.title | escape }}</h1>
-
-                <span class="post-meta">{{ post.date | date: date_format }}</span>
-                <span class="post-meta post-meta__{{ post.type | default: 'misc' }}"> {{ post.type | default: 'misc' }} </span>
-              </a>
-            </li>
-        {%- endfor -%}
+        <li>pushing to private repos on <a href="https://github.com/pam-">GitHub</a></li>
+        <li>blogging on <a href="https://medium.com/@pam_yam">Medium</a></li>
+        <li>barely tweeting on ..., well, <a href="https://twitter.com/pam_yam">twitter</a></li>
+        <li>posting about food on <a href="https://instagram.com/pam_yam">IG</a></li>
       </ul>
-    </div>
-  {%- endif -%}
+    </section>
 
+  </div>
 </div>

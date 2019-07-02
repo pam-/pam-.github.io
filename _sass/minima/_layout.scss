@@ -2,12 +2,12 @@
  * Site header
  */
 .site-header {
-  border-bottom: 1px solid $grey-color-light;
-  padding-top: 10px;
+  // border-bottom: 1px solid $grey-color-light;
+  padding-top: 50px;
   min-height: $spacing-unit * 1.865;
   .wrapper {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     margin: 20px auto;
   }
@@ -93,6 +93,28 @@
   }
 }
 
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px auto;
+  .img-wrapper {
+    max-width: 400px;
+    margin: 20px auto 80px auto;
+  }
+  h2 {
+    background-color: $pastel-blue;
+    display: inline-block;
+  }
+  p,li {
+    font-size: 20px;
+    font-weight: 100;
+  }
+  a {
+    text-decoration: underline;
+  }
+}
 
 
 /**
